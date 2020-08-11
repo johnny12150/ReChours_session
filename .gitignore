@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+*.xlsx
+.idea/
+__pycache__/
+.DS_Store
+*.pyc
+figure/
+doc/
+model/
